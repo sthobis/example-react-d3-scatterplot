@@ -2,6 +2,7 @@
   "name": "example-react-d3-scatterplot",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://sthobis.github.io/example-react-d3-scatterplot",
   "dependencies": {
     "d3": "^5.12.0",
     "gh-pages": "^2.1.1",
